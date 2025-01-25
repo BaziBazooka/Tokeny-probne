@@ -1,0 +1,7 @@
+{
+    name: 'Allelu',
+    description: 'Allelu',
+    symbol: 'ALELU',
+    decimals: 6,
+    image: 'https://iili.io/2L2BjqJ.jpg',
+}
