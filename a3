@@ -1,7 +1,7 @@
 {
-    "name": "Alleluja",
-    "description": "Alleluja",
+    "name": "Alleluj",
+    "description": "Alleluj",
     "symbol": "ALELUJ",
     "decimals": 6,
     "image": "https://iili.io/2L2BjqJ.jpg"
- }
+ };
